@@ -3,7 +3,7 @@ title: Creator Marketplace
 description: The Creator Marketplace is where you can find all assets for public use in your experiences.
 ---
 
-The **Creator Marketplace** is where you can find all assets that are made by Roblox and the Roblox community for the Roblox community to use within their experiences, such as models, images, meshes, audio, fonts, videos, and plugins.
+The **Creator Marketplace** is where you can find all assets that are made by Roblox and the Roblox community for the Rblox community to use within their experiences, such as models, images, meshes, audio, fonts, videos, and plugins.
 
 You can create and publish models, images, meshes, and plugins to the Creator Marketplace for others to use as long as you are the original creator, and it adheres to Roblox's [Community Rules](https://en.help.roblox.com/hc/articles/203313410) and [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
 
